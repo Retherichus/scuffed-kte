@@ -1,0 +1,7 @@
+*.pdb
+*.lib
+*.exp
+*.json
+runtime.dat
+logs/
+
