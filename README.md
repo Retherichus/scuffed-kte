@@ -6,8 +6,8 @@ Scuffed KTE is a [Nexus](https://raidcore.gg/Nexus) addon for Guild Wars 2. It c
 
 | Build | Included | Download |
 | --- | --- | --- |
-| **Lite** | The conservative, compliance-first edition: the core KTE combat-session tracker and history. | [Download Lite](https://github.com/Retherichus/scuffed-kte/releases/latest/download/scuffed_kte_lite.dll) |
-| **Standard** | Everything in Lite, plus accessibility and quality-of-life tools for boons, combat text, player markers, squad utilities, visual declutter, tag visibility, radial/cursor controls, and more. It also includes the optional Live Widget described below. | [Download Standard](https://github.com/Retherichus/scuffed-kte/releases/latest/download/scuffed_kte.dll) |
+| **Lite** | The conservative, compliance-first edition: the core KTE combat-session tracker and history. | [Download Lite](https://parser.rethl.net/Assets/lite/scuffed_kte_lite.dll) |
+| **Standard** | Everything in Lite, plus accessibility and quality-of-life tools for boons, combat text, player markers, squad utilities, visual declutter, tag visibility, radial/cursor controls, and more. It also includes the optional Live Widget described below. | [Download Standard](https://parser.rethl.net/Assets/scuffed_kte.dll) |
 
 Install only one build. Standard and Lite can be swapped later without intentionally discarding your existing settings.
 
@@ -44,7 +44,7 @@ The **Live Widget is the exception**. It is disabled by default and counts nearb
 
 1. Install [Nexus](https://raidcore.gg/Nexus).
 2. Close Guild Wars 2.
-3. Choose either `Standard/scuffed_kte.dll` or `Lite/scuffed_kte_lite.dll`.
+3. Download either [Standard](https://parser.rethl.net/Assets/scuffed_kte.dll) or [Lite](https://parser.rethl.net/Assets/lite/scuffed_kte_lite.dll).
 4. Place the chosen DLL in the Nexus `addons` folder.
 5. Launch the game and enable KTE in Nexus.
 
